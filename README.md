@@ -1,1 +1,1 @@
-# github-tj-actions-changed-files-action-scanner-
+# github-tj-actions-changed-files-action-scanner
